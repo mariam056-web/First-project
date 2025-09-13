@@ -1,0 +1,23 @@
+#me{
+    color: rgb(0, 139, 19);
+    font-size: larger;
+}
+#fr{
+    color: rgb(255, 115, 0);
+    font-size:large;
+    font-style: oblique;
+    
+}
+#name{
+    color: red;
+    text-align: center;
+    font-size: xx-large;
+}
+#img{
+    width: 150px;
+
+
+}
+#bio{
+    color: blueviolet;
+}

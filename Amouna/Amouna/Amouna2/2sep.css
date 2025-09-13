@@ -1,0 +1,23 @@
+
+#p1{
+    background-color: rgb(255, 8, 0);
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    display: inline;
+}
+#p2{
+    background-color: rgb(255, 136, 0);
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    display: inline;
+}
+#p3{
+    background-color: rgb(255, 174, 0);
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    display: inline;
+
+}
